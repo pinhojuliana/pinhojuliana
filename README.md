@@ -10,7 +10,7 @@ Sou uma estudante de desenvolvimento java apaixonada por programar e resolver de
 
 **Alguns dos meus hobbies são:**
 
-📚 Literatura | 🎹 Música | 🛫 Aviação | 🧮 Desafios de lógicas e atividades que exigem concentração e matemática, como sudoku e soroban.
+📚 Literatura | 🎹 Música | 🛫 Aviação | 🎬 Cinema e séries | 🧮 Desafios de lógicas e atividades que exigem concentração e matemática, como sudoku e soroban.
 
 
 ## 🌕 Tecnologias que eu estou aprendendo/uso:
