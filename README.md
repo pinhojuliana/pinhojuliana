@@ -14,11 +14,9 @@ Sou uma estudante de desenvolvimento java apaixonada por programar e resolver de
 
 
 ## 🌕 Tecnologias que eu estou aprendendo/uso:
-- Java
-- Spring Boot
-- H2 Database
-- Git e GitHub
-- Docker
+
+☕ Java |🌱 Spring Boot | 💾 H2 Database | 🐙 Git e GitHub | 🐋 Docker | 🐘 Postgres
+
 
 ## 🔭 Projetos:
 - [Gerenciamento de Cursos](https://github.com/pinhojuliana/gerenciamento-cursos): API de gerenciamento de uma plataforma educacional feita com Java e Spring boot
